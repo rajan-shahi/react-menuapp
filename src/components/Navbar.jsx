@@ -6,13 +6,13 @@ function Navbar() {
     <div className=" max-w-[1640px] mx-auto flex justify-between item-center p-4 ">
       {/* {left side} */}
       <div className=" flex item-center">
-        <div>
+        <div className=" cursor-pointer ">
           <AiOutlineAlignLeft size={30} />
         </div>
-        <h1>
+        <h1 className=" text-2xl sm:text-3xl lg:text-4xl px-2">
           Best <span>Eats</span>{" "}
         </h1>
-        <div>
+        <div className=" hidden lg:flex">
           <p>Delivery</p>
           <p>Pickup</p>
         </div>
