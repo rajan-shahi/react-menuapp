@@ -29,6 +29,7 @@ function Navbar() {
         </div>
         loki
         rajan
+        gita
       </div>
       {/* search */}
       <div className=" bg-gray-200  rounded-full flex items-center px-2 w-[200px] sm:w-[400px] lg:w-[500px]">
