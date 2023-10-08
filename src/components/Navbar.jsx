@@ -30,6 +30,7 @@ function Navbar() {
         <div>
           loki chaulagain 
           gita kumari bista
+          rajan bahadur shahi
         </div>
       </div>
       {/* search */}
