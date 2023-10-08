@@ -29,6 +29,7 @@ function Navbar() {
         </div>
         <div>
           loki chaulagain 
+          gita kumari bista
         </div>
       </div>
       {/* search */}
