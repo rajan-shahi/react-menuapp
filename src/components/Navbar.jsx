@@ -27,6 +27,9 @@ function Navbar() {
           <p className=" bg-black text-white rounded-full p-2 ">Delivery</p>
           <p>Pickup</p>
         </div>
+        <div>
+          <h1>Hello word </h1>
+        </div>
       </div>
       {/* search */}
       <div className=" bg-gray-200  rounded-full flex items-center px-2 w-[200px] sm:w-[400px] lg:w-[500px]">
