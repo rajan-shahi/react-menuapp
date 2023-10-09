@@ -27,17 +27,6 @@ function Navbar() {
           <p className=" bg-black text-white rounded-full p-2 ">Delivery</p>
           <p>Pickup</p>
         </div>
-        <div>
-          <h1>Hello word </h1>
-          <h2>Hello I am Rajan Bahadur Shahi</h2>
-          <h1>Hello I am ;lokendra chaulagain</h1>
-          <h1>Hello I am Gita kumari bista</h1>
-          <h6>Hello I am Tapendra Bahadur shahi</h6>
-          <h5>Hello I am Loki</h5>
-          <h1>Some Project are here</h1>
-          <h1>Hello I am Fronend Developer and designer I am from kathmandu</h1>
-          <h1>hello loki i am rajan bahadur shahi</h1>
-                  </div>
       </div>
       {/* search */}
       <div className=" bg-gray-200  rounded-full flex items-center px-2 w-[200px] sm:w-[400px] lg:w-[500px]">
