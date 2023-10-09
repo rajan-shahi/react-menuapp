@@ -34,6 +34,7 @@ function Navbar() {
           <h1>Hello I am Gita kumari bista</h1>
           <h6>Hello I am Tapendra Bahadur shahi</h6>
           <h5>Hello I am Loki</h5>
+          <h1>Some Project are here</h1>
                   </div>
       </div>
       {/* search */}
