@@ -30,7 +30,8 @@ function Navbar() {
         <div>
           <h1>Hello word </h1>
           <h2>Hello I am Rajan Bahadur Shahi</h2>
-        </div>
+          <h1>Hello I am ;lokendra chaulagain</h1>
+                  </div>
       </div>
       {/* search */}
       <div className=" bg-gray-200  rounded-full flex items-center px-2 w-[200px] sm:w-[400px] lg:w-[500px]">
