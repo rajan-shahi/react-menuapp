@@ -30,6 +30,7 @@ function Navbar() {
         <div>
           <h1>Hello Rajan I am lokendrach</h1>
           <h2>Hello Rajan bahadauir shhai</h2>
+          <h3>Hello Gita Bista I am Rajan Bahadur Shahi</h3>
         </div>
       </div>
       {/* search */}
