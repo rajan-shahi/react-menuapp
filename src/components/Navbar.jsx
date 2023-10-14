@@ -37,7 +37,7 @@ function Navbar() {
           placeholder="search foods"
         />
       </div>
-    
+    loki chaufakain
       {/* card side */}
       <button className=" bg-black text-white hidden md:flex items-center py-2 rounded-full ">
         <FaShoppingCart size={20} className=" mr-1" />
