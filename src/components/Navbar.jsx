@@ -58,6 +58,7 @@ function Navbar() {
               <TbTruckDelivery size={25} className=" mr-4" />
               Orders
             </li>
+            rajan  bahadur shahi
             <li className=" text-xl py-4 flex">
               <FcLike size={25} className=" mr-4" />
               Favourites
