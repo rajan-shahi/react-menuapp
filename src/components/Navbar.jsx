@@ -59,6 +59,7 @@ function Navbar() {
               Orders
             </li>
             rajan  bahadur shahi
+            loki chaulagain
             <li className=" text-xl py-4 flex">
               <FcLike size={25} className=" mr-4" />
               Favourites
